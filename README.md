@@ -3,7 +3,7 @@
 
 I'll be uploading my codes for the #6Companies30Days challenge by Arsh Goyal starting from Jan 1st
 
-## -[  ]  Goldman Sachs 
+## Goldman Sachs :heavy_check_mark:
 
 - 1. Print Anagrams Together
 - 2. Overlapping Rectangles
@@ -21,8 +21,9 @@ I'll be uploading my codes for the #6Companies30Days challenge by Arsh Goyal sta
 - 14. Minimum size Subarray sum
 - 15. Array pair sum divisibility problem 
 
+***
 
-## Amazon
+## Amazon :green_circle:
 
 - 1. Calculating Maximum Profit (Multiple Ladders Question)
 - 2. Longest Mountain 
