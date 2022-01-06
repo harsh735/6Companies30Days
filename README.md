@@ -3,7 +3,7 @@
 
 I'll be uploading my codes for the #6Companies30Days challenge by Arsh Goyal starting from Jan 1st
 
-## Goldman Sachs [x]
+## Goldman Sachs -[  ]
 
 - 1. Print Anagrams Together
 - 2. Overlapping Rectangles
