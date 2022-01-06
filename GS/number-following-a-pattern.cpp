@@ -49,7 +49,7 @@ int main()
         string S;
         cin >> S;
         Solution ob;
-        cout << ob.printMinNumberForPattern(S) << endl;
+        cout << ob.printMinNumberForPattern(S) <<endl;
     }
     return 0; 
 } 
