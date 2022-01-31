@@ -30,6 +30,7 @@ class Solution
         for(int i = idx; i<n; i++){
             if(str[i] == maxc){
                 swap(str[i],str[idx]);
+             
                 if(str.compare(ans) > 0)
                     ans = str;
                     
