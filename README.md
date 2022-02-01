@@ -83,7 +83,7 @@ I'll be uploading my codes for the #6Companies30Days challenge by Arsh Goyal sta
 
 ***
 
-##Intuit ✔️
+## Intuit ✔️
 
 - 1. https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/
 - 2. https://practice.geeksforgeeks.org/problems/word-search/1/
@@ -103,7 +103,7 @@ I'll be uploading my codes for the #6Companies30Days challenge by Arsh Goyal sta
 
 ***
 
-##Walmart ✔️
+## Walmart ✔️
 
 - 1. Path with Maximum Probability
 - 2. https://leetcode.com/problems/stone-game
